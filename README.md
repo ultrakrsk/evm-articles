@@ -2,3 +2,6 @@
 
 Just some articles about theory of music (in Russian) \
 Просто несколько статей по теории музыки
+
+Папка /images/ для фотографий к статьям: использовать формат "/images/название статьи/картинки с номерами по порядку".
+Например, '/images/01-sound-properties/03-chromatic-semitone.png'.
